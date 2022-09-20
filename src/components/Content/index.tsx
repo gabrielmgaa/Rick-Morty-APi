@@ -25,13 +25,11 @@ export function Content() {
   const [pages, setPages] = useState(1);
 
   function handleNextPage() {
-    setPages(pages + 1)
-    console.log(pages);
-
+    setPages(pages + 1);    
   }
 
   function handlePrevPage() {
-    setPages(pages - 1)
+    setPages(pages - 1);
   }
 
 
