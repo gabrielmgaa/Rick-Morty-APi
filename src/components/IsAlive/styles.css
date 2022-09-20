@@ -1,0 +1,27 @@
+
+.circle{
+  display: inline-block;
+  background-color: #55CC44;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+
+.circle-red{
+  display: inline-block;
+  background-color: #D63D2E;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+
+.circle-unk{
+  display: inline-block;
+  background-color: #3C3E44;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  margin-right: 5px;
+}

@@ -1,0 +1,57 @@
+
+main{
+  background-color: #202329;
+  padding:20px;
+}
+
+.box{
+  width: 90%;
+  max-width: 1600px;
+  margin: auto;
+}
+
+.cards-grid{
+  width: 90%;
+  max-width: 1000px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(450px,1fr));
+  gap: 20px;
+}
+
+.header{
+  display:flex;
+  justify-content:center;
+  width: 70%;
+  margin:40px auto;
+  gap:20px;
+}
+
+.btn{
+  width: 50%;
+  background-color: #909bb1;
+
+}
+
+.disabled{
+  background-color: #c6cbd3;
+}
+
+.cards-grid{
+  width: 90%;
+  max-width: 1000px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit,minmax(450px,1fr));
+  gap: 20px;
+}
+
+@media screen and (max-width: 578px){
+  .cards-grid{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(220px,1fr));
+  }
+}
+
+
