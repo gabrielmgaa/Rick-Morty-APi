@@ -6,11 +6,11 @@
 
 ## Descriçãozinha
 
-* <strong> Salve salve, hoje venho mostras à vocês mais um projeto que fiz e que achei bem divertido, venho trabalhando mais com ReactJS e essa é mais um projeto
+* <strong>Salve salve, hoje venho mostras à vocês mais um projeto que fiz e que achei bem divertido, venho trabalhando mais com ReactJS e essa é mais um projeto
 de fortalecimento de conhecimento! 
 
-* Usei o "The Rick and Morty API(https://rickandmortyapi.com/)"</strong>
-* Obviamente fiz essa aplicação com responsividade😁
+* Usei o "The Rick and Morty API(https://rickandmortyapi.com/)"
+* Obviamente fiz essa aplicação com responsividade😁</strong>
 
 ## Galeria
 
