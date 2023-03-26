@@ -2,7 +2,7 @@
 
 ![rick_morty](https://user-images.githubusercontent.com/59092579/191336010-74a79ded-7216-45ce-806b-0c47a1e50cb9.png)
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Em%Concluído&color=RED&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Concluido&color=RED&style=for-the-badge)
 
 ## Descriçãozinha
 
